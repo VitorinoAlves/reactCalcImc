@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    margin-top: 16px;
+}
+
+.formulario{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.formularioItem{
+    margin-top: 24px;
+}
+
+.formularioItemCampo{
+    padding: 8px;
+}
+
+.formularioButton{
+    margin-top: 12px;
+    padding: 8px;
+    font-size: 14px;
+    border: none;
+    background-color: #ededf2;
+    cursor: pointer;
+}
+
+.resultadoImc{
+    text-align: center;
+    margin-top: 12px;
+}
